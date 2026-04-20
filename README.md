@@ -107,4 +107,4 @@ Rigging Artist | Technical Artist | Pipeline Enthusiast
 
 ## 🔗 Connect
 
-*(Add your LinkedIn profile here)*
+https://www.linkedin.com/in/premkumarmahato/
