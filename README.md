@@ -54,7 +54,10 @@ Convert all shader assignments to face-level before export to ensure:
 
 ## 📸 Demo
 
-*(Add your screenshots or GIF here)*
+![Tool Demo](screenshots/screenshot1.png)
+![Tool Demo](screenshots/screenshot2.png)
+![Tool Demo](screenshots/screenshot3.gif)
+![Tool Demo](screenshots/screenshot4.gif)
 
 Suggested demo flow:
 - Before: Object-level shader assignment
@@ -76,7 +79,7 @@ Suggested demo flow:
 
 ## 🧱 Tech Stack
 
-- Autodesk Maya (Python - `cmds`)
+- Autodesk Maya (Python - `cmds`, `OpenMaya`)
 - PySide2 (UI)
 
 ---
