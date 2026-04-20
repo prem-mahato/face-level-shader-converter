@@ -59,13 +59,6 @@ Convert all shader assignments to face-level before export to ensure:
 ![Tool Demo](screenshots/screenshot3.gif)
 ![Tool Demo](screenshots/screenshot4.gif)
 
-Suggested demo flow:
-- Before: Object-level shader assignment
-- Tool detects issue
-- Conversion executed
-- After: Clean face-level assignment
-- Unreal import showing correct materials
-
 ---
 
 ## 🎯 Use Cases
