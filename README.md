@@ -11,7 +11,7 @@ Designed for Technical Artists, Rigging TDs, and Pipeline Developers who want to
 - Convert object-level shader assignments to face-level assignments
 - Detect meshes with object-level shader assignments
 - Skip meshes that are already correctly assigned
-- Optional cleanup of unused shading groups
+- Optional cleanup of unused shading groups 
 - Interactive UI built with PySide2
 - Headless Python API for pipeline automation
 - Supports processing the entire scene or selected meshes
